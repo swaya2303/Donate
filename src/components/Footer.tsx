@@ -10,7 +10,7 @@ function Footer() {
           <div className="animate-fadeInUp">
             <Link to="/" className="flex items-center space-x-2 mb-8">
               <Trophy className="w-8 h-8 text-yellow-500" />
-              <span className="text-2xl font-bold tracking-tight">ChampionRise</span>
+              <span className="text-2xl font-bold tracking-tight">RiseAthelete</span>
             </Link>
             <p className="text-white/60 leading-relaxed">
               Empowering underprivileged athletes across India to achieve their dreams.
@@ -28,9 +28,9 @@ function Footer() {
           <div className="animate-fadeInUp animate-delay-2">
             <h4 className="text-lg font-bold mb-6 tracking-tight">Contact</h4>
             <ul className="space-y-4 text-white/60">
-              <li>contact@championrise.org</li>
-              <li>+91 98765 43210</li>
-              <li>Mumbai, Maharashtra</li>
+              <li>contact@riseathlete.org</li>
+              <li>+91 72176 50975</li>
+              <li>Punjabi Bagh, New Delhi</li>
             </ul>
           </div>
           <div className="animate-fadeInUp animate-delay-3">
